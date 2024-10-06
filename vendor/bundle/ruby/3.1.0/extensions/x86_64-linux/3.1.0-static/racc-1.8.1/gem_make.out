@@ -1,0 +1,15 @@
+current directory: /home/jinda/Desktop/CV/jindadu00.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/local/bin/ruby -I /usr/local/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/jinda/Desktop/CV/jindadu00.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241006-33257-jijn9k sitelibdir\=./.gem.20241006-33257-jijn9k clean
+
+current directory: /home/jinda/Desktop/CV/jindadu00.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241006-33257-jijn9k sitelibdir\=./.gem.20241006-33257-jijn9k
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/jinda/Desktop/CV/jindadu00.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241006-33257-jijn9k sitelibdir\=./.gem.20241006-33257-jijn9k install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20241006-33257-jijn9k/racc

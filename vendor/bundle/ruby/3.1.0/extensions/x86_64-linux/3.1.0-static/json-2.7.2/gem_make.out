@@ -1,0 +1,13 @@
+current directory: /home/jinda/Desktop/CV/jindadu00.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+/usr/local/bin/ruby -I /usr/local/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/jinda/Desktop/CV/jindadu00.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241006-33257-tm03ev sitelibdir\=./.gem.20241006-33257-tm03ev clean
+
+current directory: /home/jinda/Desktop/CV/jindadu00.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241006-33257-tm03ev sitelibdir\=./.gem.20241006-33257-tm03ev
+make: Nothing to be done for 'all'.
+
+current directory: /home/jinda/Desktop/CV/jindadu00.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241006-33257-tm03ev sitelibdir\=./.gem.20241006-33257-tm03ev install
