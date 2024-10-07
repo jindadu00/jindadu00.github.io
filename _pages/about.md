@@ -15,10 +15,14 @@ redirect_from:
 
 <!-- {% include_relative includes/news.md %} -->
 
-{% include_relative includes/pub.md %}
+<span class='anchor' id='publication'></span>
+{% include_relative includes/publication.md %}
 
+<span class='anchor' id='project'></span>
 {% include_relative includes/project.md %}
 
+<span class='anchor' id='honors'></span>
 {% include_relative includes/honors.md %}
 
+<span class='anchor' id='educations'></span>
 {% include_relative includes/educations.md %}
