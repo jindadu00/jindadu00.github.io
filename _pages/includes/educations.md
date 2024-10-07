@@ -1,10 +1,16 @@
 
 # 🎖 Education
-- Ph.D. student in Robotics Institude(with honor), Shanghai Jiao Tong University, 2022-present
+- **Ph.D. Candidate in Robotics (with honors)**
 
-- B.E. in Engineering Mechanics(with honor), Shanghai Jiao Tong University (Shanghai, China), 2018-2022
-GPA: 4.0 / 4.3, Ranking: 1 / 21 in EM department
-Minor: B.Sc. in Computer Science and Technology
+  Institute of Robotics, Shanghai Jiao Tong University, 2022–present 
+
+- **B.E. in Engineering Mechanics, (with honors)**
+  
+  School of Ocean and Civil Engineering, Shanghai Jiao Tong University, 2018–2022
+  
+  - **GPA**: 4.0 / 4.3(90.3/100)
+  - **Ranking**: 1st out of 26 in the Engineering Mechanics department  
+  - **Minor**: B.E. in Computer Science and Technology
 
 # 🎖 Seleted Courses
 
