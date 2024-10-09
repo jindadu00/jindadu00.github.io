@@ -9,7 +9,7 @@
 
 
 
-[**Code**](https://github.com/jindadu00/Training-Quadruped-Robots-to-Traverse-Diverse-Complex-Terrains.git)
+[**Code**](https://github.com/jindadu00/legged_robot_competition.git)
 
 
 
