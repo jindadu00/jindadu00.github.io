@@ -4,7 +4,7 @@
 - **Python**: Machine learning, PyTorch/TensorFlow-based deep learning
 - **C++**: 2D/3D finite element implementation for beam structures, dynamics simulation of mechanical structures
 - **Mechanical Analysis Software**: ABAQUS, Ansys, Fluent, Adams
-- **Auxiliary Research Skills**: ROS2, LaTeX, Ubuntu, Git, Solidworks, EMGLab
+- **Auxiliary Research Skills**: ROS2, Isaac Gym, LaTeX, Ubuntu, Git, Solidworks, EMGLab
 
 # 🌍 Languages
 
