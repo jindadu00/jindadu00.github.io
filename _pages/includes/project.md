@@ -32,7 +32,7 @@ Training the quadruped robot GO2 to rapidly traverse various complex terrains in
 
 [Kun Song](https://kunsong-l.github.io/), **Jinda Du**
 
-[**Code**](https://github.com/jindadu00/taichi_table_tennis-1)
+[**Code**](https://github.com/jindadu00/taichi_table_tennis-1) | [**Lecture**]([https://github.com/jindadu00/taichi_table_tennis-1](https://www.bilibili.com/video/BV1qQ4VefEa6/?share_source=copy_web&vd_source=ac75510eaafc766062a04f7add43c2f7))
 
 
 
