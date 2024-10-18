@@ -9,7 +9,7 @@
 
 
 
-[**Code**](https://github.com/jindadu00/legged_robot_competition.git)
+[**Code**](https://github.com/jindadu00/legged_robot_competition.git) \| [**Lecture**](https://www.bilibili.com/video/BV1qQ4VefEa6/?share_source=copy_web&vd_source=ac75510eaafc766062a04f7add43c2f7)
 
 
 
@@ -30,9 +30,40 @@ Training the quadruped robot GO2 to rapidly traverse various complex terrains in
 
 
 
-[Kun Song](https://kunsong-l.github.io/), **Jinda Du**
+[Kun Song](https://kunsong-l.github.io/), **Jinda Du**, Yueshi Dong, Yiming Wang
 
-[**Code**](https://github.com/jindadu00/taichi_table_tennis-1) | [**Lecture**](https://www.bilibili.com/video/BV1qQ4VefEa6/?share_source=copy_web&vd_source=ac75510eaafc766062a04f7add43c2f7)
+[**Code**](https://github.com/jindadu00/taichi_table_tennis-1)
+
+
+We developed our own physics engine to simulate 3D ball motion and collisions, which was used to create a multiplayer competitive billiards mini-game. In the game, players can strike the cue ball, imparting it with initial momentum and angular momentum, and the subsequent gameplay is simulated accordingly. Additionally, we accelerated this simulation process using the Taichi framework, enabling smooth performance on standard laptops.
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pick.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Interactive Drawing Robot**(2024)
+
+
+**Jinda Du**, Shaoli Hu, Hang Chen
+
+
+
+[**Code**](https://github.com/jindadu00/Control-UR-Robotic-Arm-to-Visually-Capture-Specific-Fruits-With-HSV-Target-Detection)
+
+
+
+  The algorithm we adopted is capable of recognizing and complementing the user's creative intent, enabling the robot to make meaningful artistic contributions. This requires the robot not only to understand the existing elements on the canvas but also to dynamically adjust its creative process based on partial strokes or descriptive prompts provided by the user. By responding to text descriptions or drawing inputs, the robot can refine its actions in real time, ensuring that the output aligns with the user’s expectations.
+  
+  **Hardware Design**: Developed a low-cost XYZ-structure CNC plotter to replace expensive robotic arms, using stepper and servo motors for precision control in X, Y, and Z axes. Implemented Arduino microcontroller to manage motion via G-code.
+  
+  **Software Development**: Designed Python scripts for image-to-G-code conversion and implemented real-time control using Processing IDE. Enhanced image processing pipeline with threshold segmentation, morphological operations, and mask application for dynamic drawing generation.
 
 
 
@@ -94,17 +125,7 @@ Control UR Robotic Arm to Visually Capture Specific Fruits With HSV Target-Detec
 
 <!-- - `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS) -->
 
-- **Interactive Drawing Robot**(2024)
 
-  **Jinda Du**, Shaoli Hu, Hang Chen
-
-  The algorithm we adopted is capable of recognizing and complementing the user's creative intent, enabling the robot to make meaningful artistic contributions. This requires the robot not only to understand the existing elements on the canvas but also to dynamically adjust its creative process based on partial strokes or descriptive prompts provided by the user. By responding to text descriptions or drawing inputs, the robot can refine its actions in real time, ensuring that the output aligns with the user’s expectations.
-  
-  **Hardware Design**: Developed a low-cost XYZ-structure CNC plotter to replace expensive robotic arms, using stepper and servo motors for precision control in X, Y, and Z axes. Implemented Arduino microcontroller to manage motion via G-code.
-  
-  **Software Development**: Designed Python scripts for image-to-G-code conversion and implemented real-time control using Processing IDE. Enhanced image processing pipeline with threshold segmentation, morphological operations, and mask application for dynamic drawing generation.
-  
-  The video will be updated soon.
   
   
   
