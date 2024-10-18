@@ -22,30 +22,6 @@ Training the quadruped robot GO2 to rapidly traverse various complex terrains in
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/table tennis.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Billiards Mini Game Accelerated Using the Taichi Framework**(2022)
-
-
-
-
-
-[Kun Song](https://kunsong-l.github.io/), **Jinda Du**, Yueshi Dong, Yiming Wang
-
-[**Code**](https://github.com/jindadu00/taichi_table_tennis-1)
-
-
-We developed our own physics engine to simulate 3D ball motion and collisions, which was used to create a multiplayer competitive billiards mini-game. In the game, players can strike the cue ball, imparting it with initial momentum and angular momentum, and the subsequent gameplay is simulated accordingly. Additionally, we accelerated this simulation process using the Taichi framework, enabling smooth performance on standard laptops.
-
-</div>
-</div>
-
-
-
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paintRobot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Interactive Drawing Robot**(2024)
@@ -70,6 +46,8 @@ We developed our own physics engine to simulate 3D ball motion and collisions, w
 
 
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/pick.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Automated Pick-and-Place of Fruits Using a UR Robot Arm with Soft Grippers**(2021)
@@ -89,6 +67,32 @@ Control UR Robotic Arm to Visually Capture Specific Fruits With HSV Target-Detec
 
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/table tennis.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Billiards Mini Game Accelerated Using the Taichi Framework**(2022)
+
+
+
+
+
+[Kun Song](https://kunsong-l.github.io/), **Jinda Du**, Yueshi Dong, Yiming Wang
+
+[**Code**](https://github.com/jindadu00/taichi_table_tennis-1)
+
+
+We developed our own physics engine to simulate 3D ball motion and collisions, which was used to create a multiplayer competitive billiards mini-game. In the game, players can strike the cue ball, imparting it with initial momentum and angular momentum, and the subsequent gameplay is simulated accordingly. Additionally, we accelerated this simulation process using the Taichi framework, enabling smooth performance on standard laptops.
+
+</div>
+</div>
+
+
+
+
+
 
 
 
