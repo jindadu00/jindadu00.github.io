@@ -46,16 +46,12 @@ We developed our own physics engine to simulate 3D ball motion and collisions, w
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pick.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paintRobot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Interactive Drawing Robot**(2024)
 
 
 **Jinda Du**, Shaoli Hu, Hang Chen
-
-
-
-[**Code**](https://github.com/jindadu00/Control-UR-Robotic-Arm-to-Visually-Capture-Specific-Fruits-With-HSV-Target-Detection)
 
 
 
