@@ -15,17 +15,17 @@ redirect_from:
 
 <!-- {% include_relative includes/news.md %} -->
 
+<span class='anchor' id='educations'></span>
+{% include_relative includes/educations.md %}
+
+<span class='anchor' id='honors'></span>
+{% include_relative includes/honors.md %}
+
 <span class='anchor' id='publication'></span>
 {% include_relative includes/publication.md %}
 
 <span class='anchor' id='project'></span>
 {% include_relative includes/project.md %}
-
-<span class='anchor' id='honors'></span>
-{% include_relative includes/honors.md %}
-
-<span class='anchor' id='educations'></span>
-{% include_relative includes/educations.md %}
 
 <span class='anchor' id='others'></span>
 {% include_relative includes/others.md %}
