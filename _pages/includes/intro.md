@@ -1,10 +1,9 @@
-I am a Ph.D student at Shanghai Jiao Tong University (SJTU), advised by Prof. 
-[Xiangyang Zhu (朱向阳)](https://me.sjtu.edu.cn/teacher_directory1/zhuxiangyang.html). I obtained my Bachelor of Engineering (B.Eng.) degree in Engineering Mechanics, with a minor in Computer Science and Technology, from Shanghai Jiao Tong University (SJTU), graduating with honors as the top student in my major through [Zhiyuan Honor Program](https://en.zhiyuan.sjtu.edu.cn/). This academic background has fueled my interest in a wide range of robotics topics, from traditional control and mechanics modeling to reinforcement learning, deep learning, and their applications in dexterous manipulation, tactile perception, generative algorithms, motion planning, and force control.
+I am a Ph.D student at Shanghai Jiao Tong University (SJTU), under the supervision of Prof. 
+[Xiangyang Zhu (朱向阳)](https://me.sjtu.edu.cn/teacher_directory1/zhuxiangyang.html). I hold a Bachelor of Engineering (B.Eng.) degree in Engineering Mechanics, with a minor in Computer Science and Technology, also from SJTU. I graduated with honors as the top student in my major through the prestigious [Zhiyuan Honor Program](https://en.zhiyuan.sjtu.edu.cn/). My research centers on **in-hand manipulation with dexterous hands**, a complex system that integrates various robotics domains. This work draws on my interest and experience in traditional control, mechanics modeling, reinforcement learning, imitation learning, tactile perception, tactile feedback in teleoperation, generative algorithms, motion planning, and force control.
 
 I was awarded the Outstanding Winner and the INFORMS Award in the 2021 Mathematical Contest in Modeling (MCM) and received the First Prize in the National Zhou Peiyuan Mechanics Competition the same year. 
 
 I enjoy guitar🎸 and VAE (Song Xu)'s music🎶. If someone invites me to play volleyball 🏐 or go snowboarding 🏂, I'll definitely join!
-
 
 <!-- I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore. 
 

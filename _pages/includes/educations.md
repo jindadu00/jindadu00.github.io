@@ -1,3 +1,12 @@
+
+
+# 📬 Contact
+
+- **Email**: jindadu00@sjtu.edu.cn
+- **GitHub**: [jindadu00](github.com/jindadu00)
+- **WeChat**: JaydenDu_666
+- **Phone**: (+86) 15157790668
+
 # 🎓 Education
 
 - **Ph.D. student in Robotics(Honor)**

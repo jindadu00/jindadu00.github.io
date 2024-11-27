@@ -1,10 +1,10 @@
 # 🛠️ Skills
 
-- **MATLAB**: 2D and 3D finite element implementation, muscle electromyography (EMG) data processing
-- **Python**: Machine learning, PyTorch/TensorFlow-based deep learning
-- **C++**: 2D/3D finite element implementation for beam structures, dynamics simulation of mechanical structures
+- **MATLAB**: Muscle electromyography (EMG) data processing, dynamics simulation of mechanical structures
+- **Python**: Machine learning, PyTorch/TensorFlow-based deep learning, machine vision
+- **C++**: High-performance mechanical simulation, 2D/3D finite element implementation for beam structures
 - **Mechanical Analysis Software**: ABAQUS, Ansys, Fluent, Adams
-- **Auxiliary Research Skills**: ROS2, Isaac Gym, LaTeX, Ubuntu, Git, Solidworks, EMGLab
+- **Auxiliary Research Skills**: ROS2, Isaac Gym, LaTeX, Ubuntu, Git, Solidworks, EMGLab, QT, PyGame
 
 # 📚 Seleted Courses
 
