@@ -13,6 +13,12 @@ AcadHomepage
 
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
+## Maintaining Jinda Du's homepage
+
+Edit `index.html` for homepage content and `assets/css/homepage.css` for styles. Research teasers and video posters are in `assets/images/`; project demo videos are in `assets/videos/`. The MILE figure renders the original PDF with locally bundled PDF.js, with a PNG fallback when JavaScript or PDF rendering is unavailable. GitHub Pages serves these files directly.
+
+For a local preview, run `python -m http.server 8765 --bind 127.0.0.1` from the repository root and open `http://127.0.0.1:8765/`.
+
 <p align="center">
     <br>
     <img src="docs/screenshot.png" width="100%"/>
@@ -30,7 +36,7 @@ Some examples:
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
 - **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
 
-## Quick Start
+## Quick Start (upstream template)
 
 1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
 1. Configure the google scholar citation crawler:
@@ -56,7 +62,7 @@ Some examples:
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
 1. Your page will be published at `https://USERNAME.github.io`.
 
-## Debug Locally
+## Debug Locally (upstream template)
 
 1. Clone your REPO to local using `git clone`.
 1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).

@@ -1,6 +1,7 @@
 name: Update github myprofile
 
-on: 'page_build'
+# Legacy upstream-template workflow; do not run it when this homepage is published.
+on: workflow_dispatch
 jobs:
   build:
     runs-on: ubuntu-latest
