@@ -15,6 +15,8 @@ AcadHomepage
 
 ## Maintaining Jinda Du's homepage
 
+The MILE project-page link is intentionally disabled until the author confirms paper acceptance. Restore it together with the author-profile link on the MILE project page after that confirmation.
+
 Edit `index.html` for homepage content and `assets/css/homepage.css` for styles. Research teasers and video posters are in `assets/images/`; project demo videos are in `assets/videos/`. The MILE figure renders the original PDF with locally bundled PDF.js, with a PNG fallback when JavaScript or PDF rendering is unavailable. GitHub Pages serves these files directly.
 
 For a local preview, run `python -m http.server 8765 --bind 127.0.0.1` from the repository root and open `http://127.0.0.1:8765/`.
