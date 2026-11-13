@@ -63,14 +63,14 @@ nav a:hover { color: var(--accent); text-decoration: underline; }
   display: flex;
   align-items: baseline;
   flex-wrap: wrap;
-  gap: 0 .95rem;
+  gap: 0 .75rem;
   margin: .55rem 0 .75rem;
-  font-size: clamp(3.35rem, 7vw, 6.1rem);
-  font-weight: 760;
-  letter-spacing: -.075em;
-  line-height: .99;
+  font-size: clamp(2.2rem, 4vw, 3.1rem);
+  font-weight: 650;
+  letter-spacing: -.045em;
+  line-height: 1.12;
 }
-.hero h1 span { color: var(--muted); font-size: .36em; font-weight: 550; letter-spacing: .04em; }
+.hero h1 span { color: var(--muted); font-size: .48em; font-weight: 500; letter-spacing: .04em; }
 .hero-lead { max-width: 32ch; font-size: clamp(1.24rem, 2.4vw, 1.75rem); font-weight: 650; letter-spacing: -.028em; line-height: 1.2; }
 .hero-bio { max-width: 59ch; color: var(--muted); margin-top: 1rem; }
 .hero .portrait-panel { align-self: start; margin-top: 1.4rem; }
@@ -182,24 +182,23 @@ nav a:hover { color: var(--accent); text-decoration: underline; }
 .coursework[open] summary { padding-bottom: .6rem; border-bottom: 1px solid var(--line); }
 .entry p.course-scale { margin: .55rem 0 .65rem; font-size: .8rem; text-align: right; }
 .coursework h3 { font-size: .95rem; }
-.course-list, .language-scores { margin: 0; color: var(--muted); font-size: .85rem; }
+.course-list { margin: 0; color: var(--muted); font-size: .85rem; }
 .course-list { margin-bottom: .8rem; }
 .course-list:last-child { margin-bottom: 0; }
-.course-list div, .language-scores div { display: flex; justify-content: space-between; gap: .65rem; }
+.course-list div { display: flex; justify-content: space-between; gap: .65rem; }
 .course-list div { padding-block: .31rem; }
 .course-list div + div { border-top: 1px solid var(--line); }
-.course-list dd, .language-scores dd { margin: 0; color: var(--ink); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.course-list dd { margin: 0; color: var(--ink); font-variant-numeric: tabular-nums; white-space: nowrap; }
 .background-grid .academic-extra { align-self: start; margin-top: 0; }
 .academic-extra h2 { margin-bottom: .22rem; font-size: 1.23rem; }
 .technical-skills, .leadership { grid-column: 1 / -1; }
 .skill-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem 1.6rem; margin: .8rem 0 0; font-size: .9rem; }
 .skill-list dt { font-weight: 650; }
 .skill-list dd { margin: .3rem 0 0; color: var(--muted); }
-.teaching-list, .language-scores { margin-top: .75rem; }
+.teaching-list { margin-top: .75rem; }
 .teaching-list li { padding-block: .48rem; font-size: .9rem; }
 .teaching-list li + li { border-top: 1px solid var(--line); }
 .teaching-list span { display: block; color: var(--muted); font-size: .82rem; }
-.language-scores { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .4rem 1.2rem; }
 .honors { margin-block: 2.75rem; }
 .honor-list li { display: grid; grid-template-columns: 7rem minmax(0, 1fr); gap: 1rem; padding: 1rem .25rem; }
 .honor-list li + li { border-top: 1px solid var(--line); }
@@ -244,7 +243,7 @@ nav a:hover { color: var(--accent); text-decoration: underline; }
   .hero { display: flex; flex-direction: column-reverse; align-items: flex-start; gap: 1.55rem; padding-block: 2rem 2.4rem; }
   .portrait-panel { width: 125px; padding: .8rem; border-radius: 16px; }
   .hero .portrait-panel { margin-top: 0; }
-  .hero h1 { font-size: clamp(3.18rem, 12vw, 4.35rem); }
+  .hero h1 { font-size: clamp(2.05rem, 8vw, 2.65rem); }
   .hero-lead { font-size: 1.26rem; }
   .hero-bio { font-size: .96rem; }
   .profile-links .button { padding-inline: .63rem; gap: .33rem; font-size: .82rem; }
